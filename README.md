@@ -9,7 +9,8 @@ After discovering evidence of academic dishonesty at one of the schools, this cu
 ## Results
 
 ### District Summary
-Our District summary was altered a little bit after the changes to the original analysis. As evident below, we can see that the math scores, and all of the passing percentages dropped. Average reading score, however, remained the same.
+*  Math scores, and all of the passing percentages dropped. 
+*  Average reading score, however, remained the same.
 
 Original
 
@@ -21,11 +22,14 @@ Updated
 
 ### School Summary
 
-We see a pretty similar story in the per_school_summary data frame as well. Only Thomas High School's scores and percentages were altered. But they were only altered by a few hundreths of a point or percentage.
+* Only Thomas High School's scores and percentages were altered. 
+* Only altered by a few hundreths of a point or percentage.
 
 ### Thomas High School
 
-In terms of how Thomas High School performed compared to the other schools, the school still performed very well despite losing some high scores from the 9th grade class. However, they now fell behind a few schools in the percentage of students who passed reading. Despite this, they were still the 2nd highest school in terms of percentage of students who passed both math and reading.
+* The school still performed very well despite losing some high scores from the 9th grade class. t
+* They now fell behind a few schools in the percentage of students who passed reading. 
+* They were still the 2nd highest school in terms of percentage of students who passed both math and reading.
 
 Original
 
@@ -37,7 +41,9 @@ Updated
 
 ### Scores by Grade/Spending/Size/Type
 
-We can tell by the analysis that the scores by grades data frames have a significant difference than the original analysis. Thomas High School's 9th grade scores are completely wiped out due to the academic dishonesty. By replacing those scores with "NaN", the dataframes are now missing those data points.
+* Scores by grade data frames have a significant difference than the original analysis. 
+* Thomas High School's 9th grade scores are completely wiped out due to the academic dishonesty. 
+* By replacing those scores with "NaN", the dataframes are now missing those data points.
 
 ![image](https://user-images.githubusercontent.com/102189324/167324112-e43f836b-cbe9-4b30-a781-aa9922a1f4c9.png)
 
@@ -59,7 +65,10 @@ Updated
 
 ![image](https://user-images.githubusercontent.com/102189324/167324453-ec75c350-ad1e-4297-886f-6dc60c5a2d17.png)
 
-As we can see, we can see that the Charter Schools data points all changed within a very small margin. This margin was typically within 1/100th of a point or percentage point of the original. We see this as well with the average scores and percentile of passing for medium sized schools as well as schools with a spending range of $631 and $645.
+* We can see that the Charter Schools data points all changed within a very small margin. 
+* This margin was typically within 1/100th of a point or percentage point of the original. 
+* We see this as well with the average scores and percentile of passing for medium sized schools 
+* Also see this as well with schools with a spending range of $631 and $645.
 
 ## Summary
 
